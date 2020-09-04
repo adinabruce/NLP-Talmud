@@ -73,8 +73,8 @@ Code within named MLTaggingAlgo.py can be used to run classifier module tests.
 - The NER only tagged words incorrectly 7% of the time.
 
 #### Sentence Tagging ML Model
-- The accuracy found using the nltk.classify.MaxentClassifier module is 0.462 on the training set
-- The accuracy found using the nltk.classify.MaxentClassifier module is 0.38 on the testing set
+- The accuracy found using the nltk.classify.MaxentClassifier module is 46.2% on the training set
+- The accuracy found using the nltk.classify.MaxentClassifier module is 38% on the testing set
 - Relevant features and incorrect guesses are printed along with the percent accuracy. 
 
 
