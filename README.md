@@ -7,7 +7,7 @@ For both parts of the project, NLP tools to analyze the Talmud, specifically thr
 
 These instructions will assume a basic understanding of how to clone a repository to a local machine and how to download relevant packages  
 
-First, clone the repository to your local machine 
+First, clone the repository to your local machine. Both files Berakhot.txt.zip and Berakhot.tsv.zip in Sentence Tagging ML Model must be unzipped before any code can be executed.
 
 The packages that are needed for this project are: 
 - Python
